@@ -9,7 +9,9 @@ Create a basic repo.
 ### Skills and Technologies
 
 ◘ Graphic design, Adobe CC
+
 ◘ Webpage administrator
+
 ◘ Html and CSS enthusiast
 
 Picture of a _**Bermuda Buttercup**_:
