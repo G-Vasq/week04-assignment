@@ -12,6 +12,6 @@ Create a basic repo.
 ◘ Webpage administrator
 ◘ Html and CSS enthusiast
 
-Picture of a Bermuda Buttercup:
+Picture of a **Bermuda Buttercup**:
 
-![alt text](yellow flower.jpg)
+![yellow flower.jpg](https://github.com/G-Vasq/week04-assignment/blob/main/yellow%20flower.jpg)
