@@ -12,6 +12,6 @@ Create a basic repo.
 ◘ Webpage administrator
 ◘ Html and CSS enthusiast
 
-Picture of me doing a yoga challenge picture at the Sonora dessert, and just having fun:
+Picture of a Bermuda Buttercup:
 
-![alt text]([image.jpg](https://www.instagram.com/p/BJCWnPKjps-icXbrGOnOYmAeKyOUKJvnIZ2VIc0/))
+![alt text](yellow flower.jpg)
